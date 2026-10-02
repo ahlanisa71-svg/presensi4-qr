@@ -1,0 +1,10 @@
+{
+  "name": "NISZAR - Presensi QR",
+  "short_name": "NISZAR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#064e3b",
+  "orientation": "portrait"
+}
